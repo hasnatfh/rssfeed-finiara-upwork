@@ -1,17 +1,16 @@
-	
-		/* Coded with love by Mutiullah Samim */
-		body,
-		html {
-			margin: 0;
-			padding: 0;
-			height: 100%;
-			background: #F1F2F4 !important;
+
+body,
+html {
+ margin: 0;
+ padding: 0;
+ height: 100%;
+ background: #F1F2F4 !important;
 		}
 		
-	.container{
-	margin: 0 auto;
-    width: 100%;
-    max-width: 1550px;
+.container{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1550px;
 	
 	}
 	
