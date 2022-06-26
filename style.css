@@ -5,7 +5,7 @@ html {
  padding: 0;
  height: 100%;
  background: #F1F2F4 !important;
- font-family: 'Lato', sans-serif;
+ font-family: 'Open Sans', sans-serif;
 		}
 		
 .container{
@@ -35,7 +35,7 @@ float: left;width: 65%;
 .feed-container .content .item .title a:visited{color:#5a4860;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#329171;text-decoration:underline;}
 .feed-container .content .item .title a:active{color:#5a4860;text-decoration:none;}
-.feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#8A0CBC;font-size: 17px;float: left;font-weight: 900;}
+.feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#8A0CBC;font-size: 17px;float: left;}
 .feed-container .content .item .description a{text-decoration:none;color:#9257a6;}
 .feed-container .content .item .description a:hover{text-decoration:underline;color:#cc99cc;} 
 	
