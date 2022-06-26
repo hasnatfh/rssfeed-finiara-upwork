@@ -37,7 +37,7 @@ float: left;width: 65%;
 .feed-container .content .item .title a:active{color:#5a4860;text-decoration:none;}
 .feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#8A0CBC;font-size: 17px;float: left;}
 .feed-container .content .item .description a{text-decoration:none;color:#9257a6;}
-.feed-container .content .item .description a:hover{text-decoration:underline;color:#cc99cc;}
+.feed-container .content .item .description a:hover{text-decoration:underline;color:#cc99cc;} 
 	
 
 
